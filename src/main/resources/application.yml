@@ -1,0 +1,5 @@
+axon:
+  axonserver:
+    token: myjava123
+    client-id: writer
+    servers: localhost:8124 #servers: localhost:8124,localhost:8125 -> for cluster
